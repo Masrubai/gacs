@@ -1,7 +1,22 @@
 # GenieACS x Ubuntu Server v.22.04
 This is autoinstall GenieACS For ubuntu version 22.04 (Jammy)
 
-## Usage
+Requirement Hardware
+- Ram 1GB minimal
+- SSD 20GB
+- CPU 2 Core
+
+Requirement Operating System
+- Ubuntu server 22.04
+- MongoDB new update
+
+
+Auto instalation steps, save & runing gacs
+```sh
+wget -O - https://raw.githubusercontent.com/Masrubai/gacs/refs/heads/main/gacs-install.sh | bash
+```
+
+## Manual Usage
 ```
 sudo su
 git clone https://github.com/masrubai/gacs
