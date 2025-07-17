@@ -8,7 +8,9 @@ Requirement Hardware
 
 Requirement Operating System
 - Ubuntu server 22.04
-- MongoDB new update
+- LibSSL1, NodeJS, NPM, MongoDB
+- Konfigurasi mongo+genieACS otomatis
+- Konfigurasi service otomatis on reboot startup OS
 
 
 Auto instalation steps, save & runing gacs
