@@ -15,7 +15,7 @@ Requirement Operating System
 
 Auto instalation steps, save & runing gacs
 ```sh
-wget -O - https://raw.githubusercontent.com/Masrubai/gacs/refs/heads/main/gacs-install.sh | bash
+wget -O - https://raw.githubusercontent.com/Masrubai/gacs/refs/heads/main/install.sh | bash
 ```
 
 ## Manual Usage
